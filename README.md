@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Tomás 👋👨‍💻💻
+
+```js
+const tomasrl18 = {
+  pronouns: "he" | "his",
+  code: { Javascript, PHP, HTML, CSS },
+  tools: [ Laravel, Vue ]
+}
+```
 
 <!--
 **tomasrl18/tomasrl18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
