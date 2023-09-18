@@ -3,7 +3,7 @@
 ```js
 const tomasrl18 = {
   pronouns: "he" | "his",
-  code: { Javascript, PHP, HTML, CSS },
+  code: { JS, PHP, HTML, CSS },
   tools: [ Laravel, Vue ],
   passions: [ 'Web Development', 'Harry Potter', 'Friends', 'Family', 'Learn' ]
 }
