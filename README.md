@@ -17,7 +17,7 @@ const tomasrl18 = {
 
 ### Stats 📊:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrl18)](https://github.com/anuraghazra/github-readme-stats)
+[![tomasrl18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrl18)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tomasrl18/tomasrl18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
