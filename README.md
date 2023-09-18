@@ -3,9 +3,10 @@
 ```js
 const tomasrl18 = {
   pronouns: "he" | "his",
-  code: { JS, PHP, HTML, CSS },
-  tools: [ Laravel, Vue, Nuxt ],
-  passions: [ 'Web Development', 'Harry Potter', 'Friends', 'Family', 'Learn' ]
+  code: {JS, PHP, HTML, CSS},
+  tools: [Laravel, Vue, Nuxt],
+  passions: ['Web Development', 'Harry Potter', 'Friends', 'Family', 'Learn'],
+  current_company: ['COMPRALAENTRADA']
 }
 ```
 
