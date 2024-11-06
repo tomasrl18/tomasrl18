@@ -8,6 +8,18 @@
 - 💬 **Ask me about:** APIs, databases or anything tech-related!
 - ⚡ **Fun fact:** The first "bug" in software history was actually a moth. In 1947, engineers working on the Mark II computer at Harvard University found a moth trapped in one of the machine's relays, causing a malfunction. They "captured" it and taped the insect into the maintenance log, noting "first bug found." Since then, the term "bug" has been used to refer to errors or faults in software. So, the origin of the word has a pretty literal story behind it!
 
+## My Skills Include
+
+<h4>Languages</h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white">
+</span>
+
 <!--
 ### Hi, I'm Tomás 👋👨‍💻💻
 
