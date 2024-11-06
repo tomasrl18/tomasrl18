@@ -35,6 +35,10 @@
   <img src="https://img.shields.io/badge/phpstorm-5A0FC8?style=for-the-badge&logo=phpstorm&logoColor=white">
 </span>
 
+## Stats 📊:
+
+[![tomasrl18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrl18)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 <p align="center">
    <i>“DRACO DORMIENS NUNQUAM TITILLANDUS”</i>
@@ -49,10 +53,6 @@
       <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
    </a>
 </p>
-
-### Stats 📊:
-
-[![tomasrl18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrl18)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi, I'm Tomás 👋👨‍💻💻
