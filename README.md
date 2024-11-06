@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
-  <img src="https://img.shields.io/badge/phpstorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white">
+  <img src="https://img.shields.io/badge/jetbrains-E74536?style=for-the-badge&logo=jetbrains&logoColor=white">
+  <img src="https://img.shields.io/badge/phpstorm-5A0FC8?style=for-the-badge&logo=phpstorm&logoColor=white">
 </span>
 
 <!--
