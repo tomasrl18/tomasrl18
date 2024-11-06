@@ -49,6 +49,11 @@
       <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
    </a>
 </p>
+
+### Stats 📊:
+
+[![tomasrl18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrl18)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ### Hi, I'm Tomás 👋👨‍💻💻
 
