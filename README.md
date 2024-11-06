@@ -1,5 +1,13 @@
 <h1 align="center">Hi, I'm Tomás Raigal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  I'm a passionate backend developer specializing in <b>web development</b>.
+</p>
+
+- 🌱 **Learning:** DAW and other courses, focusing on modern web technologies.
+- 💬 **Ask me about:** APIs, databases or anything tech-related!
+- ⚡ **Fun fact:** The first "bug" in software history was actually a moth. In 1947, engineers working on the Mark II computer at Harvard University found a moth trapped in one of the machine's relays, causing a malfunction. They "captured" it and taped the insect into the maintenance log, noting "first bug found." Since then, the term "bug" has been used to refer to errors or faults in software. So, the origin of the word has a pretty literal story behind it!
+
 <!--
 ### Hi, I'm Tomás 👋👨‍💻💻
 
