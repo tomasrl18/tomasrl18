@@ -1,3 +1,6 @@
+<h1 align="center">Hi, I'm Tomás Raigal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<!--
 ### Hi, I'm Tomás 👋👨‍💻💻
 
 ```js
@@ -19,3 +22,4 @@ const tomasrl18 = {
 ### Stats 📊:
 
 [![tomasrl18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrl18)](https://github.com/anuraghazra/github-readme-stats)
+-->
