@@ -35,6 +35,20 @@
   <img src="https://img.shields.io/badge/phpstorm-5A0FC8?style=for-the-badge&logo=phpstorm&logoColor=white">
 </span>
 
+<hr>
+<p align="center">
+   <i>“DRACO DORMIENS NUNQUAM TITILLANDUS”</i>
+   <br><br>
+   <a href="https://www.linkedin.com/in/tom%C3%A1s-raigal-l%C3%B3pez-0a67a2273" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+   </a>
+   <a href="mailto:tomaslopezraigal@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+   </a>
+   <a href="https://tomasrl.es" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+   </a>
+</p>
 <!--
 ### Hi, I'm Tomás 👋👨‍💻💻
 
