@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/phpstorm-5A0FC8?style=for-the-badge&logo=phpstorm&logoColor=white">
 </span>
 
-## Stats 📊:
+<h4>Stats📊</h4>
 
 [![tomasrl18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrl18)](https://github.com/anuraghazra/github-readme-stats)
 
