@@ -1,11 +1,12 @@
-<h1 align="center">Hi, I'm Tomás Raigal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center"><img src="https://media.giphy.com/media/L2lkyiSIYFq6f4gAqq/giphy.gif" width="200"></div>
+<h1 align="center"></img>Hi, I'm Tomás Raigal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  I'm a passionate backend developer specializing in <b>web development</b>.
+  I'm a passionate software developer.
 </p>
 
 - 🌱 **Learning:** DAW and other courses, focusing on modern web technologies.
-- 💬 **Ask me about:** APIs, databases or anything tech-related!
+- 💬 **Ask me about:** APIs, databases or Harry Potter!
 - ⚡ **Fun fact:** The first "bug" in software history was actually a moth. In 1947, engineers working on the Mark II computer at Harvard University found a moth trapped in one of the machine's relays, causing a malfunction. They "captured" it and taped the insect into the maintenance log, noting "first bug found." Since then, the term "bug" has been used to refer to errors or faults in software. So, the origin of the word has a pretty literal story behind it!
 
 ## My Skills Include
@@ -17,27 +18,25 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
-<h4>Frameworks & Libraries</h4>
+<h4>Frameworks - Libraries - Technologies</h4>
 <span>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white">
 </span>
 
 <h4>Tools & IDEs</h4>
 <span>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/jetbrains-E74536?style=for-the-badge&logo=jetbrains&logoColor=white">
   <img src="https://img.shields.io/badge/phpstorm-5A0FC8?style=for-the-badge&logo=phpstorm&logoColor=white">
 </span>
-
-<h4>Stats📊</h4>
-
-[![tomasrl18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrl18)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <p align="center">
