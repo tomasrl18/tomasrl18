@@ -2,11 +2,22 @@
 <h1 align="center"></img>Hi, I'm Tomás Raigal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  I'm a passionate software developer.
+  Software developer | Odoo developer
 </p>
 
-- 🌱 **Learning:** DAW and other courses, focusing on modern web technologies.
-- 💬 **Ask me about:** APIs, databases or Harry Potter!
+<p align="center">
+  I'm a software developer specialized in Odoo customization and business process automation.
+  I enjoy building efficient solutions, improving existing systems and turning business requirements into reliable software.
+</p>
+
+## 👨‍💻 About Me
+
+- 💼 **Currently working as an Odoo Developer**, developing and maintaining custom business solutions in real production environments.
+- 🐍 Mainly focused on **Python, Odoo ORM, PostgreSQL and XML views**.
+- 🔧 Experienced in creating custom modules, modifying existing functionalities, debugging issues and working with professional Git workflows.
+- 🎓 Higher Technician in **Web Application Development (DAW)**.
+- 🌱 Always learning about ERP systems, backend development and software architecture.
+- 💬 **Ask me about** APIs, databases or Harry Potter!
 - ⚡ **Fun fact:** The first "bug" in software history was actually a moth. In 1947, engineers working on the Mark II computer at Harvard University found a moth trapped in one of the machine's relays, causing a malfunction. They "captured" it and taped the insect into the maintenance log, noting "first bug found." Since then, the term "bug" has been used to refer to errors or faults in software. So, the origin of the word has a pretty literal story behind it!
 
 ## My Skills Include
